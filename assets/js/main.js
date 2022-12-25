@@ -363,8 +363,3 @@ sr.reveal(
 sr.reveal(`.about-img, .about-card`, {
   origin: "top",
 });
-sr.reveal(`.footer-data`, {
-  origin: "top",
-  interval: "300",
-  reset: false,
-});
